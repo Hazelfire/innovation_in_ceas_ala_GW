@@ -15,7 +15,7 @@
   * [(Possible errors and misunderstandings: examples from GW and beyond)](innovations-and-issues/limitations-of-givewell/possible-errors-and-misunderstandings-examples-from-gw-and-beyond.md)
 * [Incorporating uncertainty](innovations-and-issues/incorporating-uncertainty.md)
 * [(User-input of parameters, sensitivity checking)](innovations-and-issues/user-input-of-parameters-sensitivity-checking.md)
-* [(Type checking and code)](innovations-and-issues/type-checking-and-code.md)
+* [Type-checking and code](innovations-and-issues/type-checking-and-code.md)
 
 ## Tools and examples
 
